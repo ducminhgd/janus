@@ -7,4 +7,4 @@ List installations:
 - Ubuntu 22.04:
   - [x] Docker
 - Ubuntu 22.10:
-  - [ ] Docker
+  - [x] Docker
